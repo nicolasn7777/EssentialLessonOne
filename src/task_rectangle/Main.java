@@ -1,4 +1,4 @@
-package com.oop.first.task_rectangle;
+package task_rectangle;
 
 import java.util.Scanner;
 

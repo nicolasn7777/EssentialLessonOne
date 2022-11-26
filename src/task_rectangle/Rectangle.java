@@ -1,16 +1,16 @@
-package com.oop.first.task_rectangle;
+package task_rectangle;
 
 public class Rectangle {
     private double side1;
     private double side2;
 
-    public Rectangle() {
-    }
-
-    public Rectangle(double side1, double side2) {
-        this.side1 = side1;
-        this.side2 = side2;
-    }
+//    public Rectangle() {
+//    }
+//
+//    public Rectangle(double side1, double side2) {
+//        this.side1 = side1;
+//        this.side2 = side2;
+//    }
 
     public double getSide1() {
         return side1;

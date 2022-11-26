@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ef642ca-19a0-4826-b053-6bd078d8b2d6" name="Changes" comment="" />
+    <list default="true" id="4ef642ca-19a0-4826-b053-6bd078d8b2d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_address/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_address/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_address/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_address/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_book/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_book/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_book/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_book/Content.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_book/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_book/Title.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_computer/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_rectangle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_rectangle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_rectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_rectangle/Rectangle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HoBdNqdEpCYPMURqAbYw3KwBXO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,9 +42,88 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/programs/IDE/projects IDE/Lesson9",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.task_address.Main">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_book.Book" />
+      <module name="EssentialLessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_computer.Computer" />
+      <module name="EssentialLessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_address.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_address.Main" />
+      <module name="EssentialLessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_address.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_computer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_computer.Main" />
+      <module name="EssentialLessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_rectangle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_rectangle.Main" />
+      <module name="EssentialLessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_rectangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task_address.Main" />
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.task_computer.Main" />
+        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.task_rectangle.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +134,16 @@
       <updated>1668941646269</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
